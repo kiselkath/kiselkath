@@ -1,5 +1,5 @@
 ## Hi there, my name is Kate 👋
-Junior Java Developer with a foundation in backend development and a background as a _QA Engineer_ 
+Java Developer with a foundation in backend development and a background as a _QA Engineer_ 
 
 - 🌐 Based in Berlin, Germany
 - 🎓 Currently studying at bootcamp "Java Backend Engineer" 
